@@ -1,7 +1,7 @@
 {
   "name": "discord-valorantbot",
   "description": "Heroku-discord bot for valorant",
-  "repository": "https://github.com/staciax/Valorant-DiscordBot",
+  "repository": "https://github.com/moknub/Valorant-DiscordBot",
   "keywords": [
     "python",
     "discord",
